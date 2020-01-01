@@ -24,7 +24,7 @@ sub imprime_campo {
 # esta função verifica se um jogador ganhou. Recebe como parâmetro o símbolo do jogador que vai testar se ganhou ('x' ou 'o')
 sub ganhou {
 
-    # Posicoes vencedoras (todas testadas):
+    # Posições vencedoras (todas testadas):
     # [0][0], [0][1], [0][2] OK
     # [1][0], [1][1], [1][2] OK
     # [2][0], [2][1], [2][2] OK
